@@ -1,0 +1,2 @@
+# Cryptoads
+Telegram min bot
